@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#f4511e</color>
+    <color name="colorAccent">#ff3d00</color>
+    <color name="tabsScrollColor">#004D40</color>
+    <color name="colorNormal">#2979FF</color>
+
+    <color name="colorText">#000000</color>
+    <color name="colorTextGraph">#FFFFFF</color>
+    <color name="colorHeadings">#000000</color>
+    <color name="colorHint">#888888</color>
+    <!--<color name="colorBG">#FF5D6DB0</color>-->
+    <color name="colorBG">#20205E</color>
+    <color name="colorHome">#fdff5500</color>
+    <color name="colorIcon">#04B431</color>
+    <!--<color name="colorIcon">#FF7E8FEA</color>-->
+    <!--<item name="colorIcon">#FF5D6DC4</item>-->
+    <color name="colorIconLight">#AFFEAA</color>
+
+    <color name="colorDialog">#AFFEAA</color>
+    <color name="colorMaster">#FE2E64</color>
+</resources>
